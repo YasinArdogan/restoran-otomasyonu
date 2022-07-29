@@ -1,0 +1,42 @@
+3. masa
+		3)Musteri  1
+			3)yiyecek > iskender
+			3)porsiyon > 1
+			3)birim porsiyonunun fiyati > 19
+			3)tutar > 19
+			3)yiyecek > dondurma
+			3)porsiyon > 2
+			3)birim porsiyonunun fiyati > 7
+			3)tutar > 14
+		3)Musteri  2
+			3)yiyecek > kabap
+			3)porsiyon > 1
+			3)birim porsiyonunun fiyati > 22
+			3)tutar > 22
+2. masa
+		2)Musteri  1
+			2)yiyecek > helva
+			2)porsiyon > 1
+			2)birim porsiyonunun fiyati > 12
+			2)tutar > 12
+5. masa
+		5)Musteri  1
+			5)yiyecek > kek
+			5)porsiyon > 1
+			5)birim porsiyonunun fiyati > 12
+			5)tutar > 12
+		5)Musteri  2
+			5)yiyecek > midye
+			5)porsiyon > 11
+			5)birim porsiyonunun fiyati > 3
+			5)tutar > 33
+			5)yiyecek > cikofte
+			5)porsiyon > 1
+			5)birim porsiyonunun fiyati > 10
+			5)tutar > 10
+8. masa
+		8)Musteri  1
+			8)yiyecek > doner
+			8)porsiyon > 1
+			8)birim porsiyonunun fiyati > 30
+			8)tutar > 30
